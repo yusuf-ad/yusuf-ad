@@ -9,7 +9,7 @@ I'm a second-year Computer Science student with a keen interest in software deve
 - 🤔 I’m looking for help with Node.js and Frontend development.
 - 💬 Ask me about Prompt Engineering and React
 - 📫 Feel free to reach out to me at yusufgad24@gmail.com for collaborations, questions, or just to say hi!
-- ⚡ Fun fact: When faced with a problem, I dive in headfirst and don't come up for air until I've found a solution. My dedication knows no bounds, and I'll tirelessly chase down every possible lead, turning every stone until the puzzle is solved. It's not just about finding an answer; it's about embracing the thrill of the chase and the satisfaction of finally cracking the code!
+- ⚡ Fun fact: When faced with a problem, I'm all in, relentlessly pursuing every lead until I crack the code. It's the thrill of the chase and the joy of solving that drives me!
 
 ## 🛠 Skills
 
