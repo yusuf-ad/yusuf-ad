@@ -12,7 +12,7 @@ I'm a second-year Computer Science student with a keen interest in software deve
 
 ## 🛠 Skills
 
-Javascript, React, Node.js, Express.js, Tailwind, MongoDB, C++, Java
+Javascript, React, Node.js, Express.js, Tailwind, MongoDB
 
 ## 🤝 Support
 
