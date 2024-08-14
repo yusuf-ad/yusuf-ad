@@ -2,17 +2,16 @@
 
 ## 🚀 About Me
 
-I'm a second-year Computer Science student with a keen interest in software development and artificial intelligence. As a self-taught full-stack and frontend developer, I am continuously expanding my knowledge and skills across various tech stacks, embracing the journey of learning and discovery in these dynamic fields.
+I am a second-year Computer Science student with a strong passion for software development and artificial intelligence. Currently, I'm focusing on enhancing my skills in React, Node.js, and Next.js, which I use to develop dynamic, user-friendly, and scalable web applications.
+I prioritize writing clean, efficient code and delivering a great user experience. I enjoy solving problems and continuously learning from new challenges.
 
-- 🔭 I’m currently working on the Wild Oasis project from Jonas Schmedtmann's React course on Udemy.
-- 🌱 I’m currently learning React and Node.js
+- 🌱 I’m currently learning Next.js
 - 🤔 I’m looking for help with Node.js and Frontend development.
 - 💬 Ask me about Prompt Engineering and React
-- ⚡ Fun fact: When faced with a problem, I'm all in, relentlessly pursuing every lead until I crack the code. It's the thrill of the chase and the joy of solving that drives me!
 
 ## 🛠 Skills
 
-Javascript, React, Node.js, Express.js, Tailwind, MongoDB
+Javascript, Typescript, React, Nextj.js, Node.js, Express.js, Tailwind
 
 ## 🤝 Support
 
