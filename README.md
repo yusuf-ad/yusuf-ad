@@ -11,7 +11,7 @@ I prioritize writing clean, efficient code and delivering a great user experienc
 
 ## 🛠 Skills
 
-Javascript, Typescript, React, Nextj.js, Node.js, Express.js, Tailwind
+Javascript, Typescript, React, React Native, Next.js, Node.js, Express.js, Tailwind
 
 ## 🤝 Support
 
